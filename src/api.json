@@ -1,0 +1,1446 @@
+[
+  {
+    "id": 1,
+    "name": "ირაკლი კობახიძე",
+    "about": "N/A",
+    "image": "1.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 2,
+    "name": "მამუკა მდინარაძე",
+    "about": "N/A",
+    "image": "2.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 3,
+    "name": "არჩილ თალაკვაძე",
+    "about": "N/A",
+    "image": "3.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 4,
+    "name": "გია ვოლსკი",
+    "about": "N/A",
+    "image": "4.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 5,
+    "name": "სოზარ სუბარი",
+    "about": "N/A",
+    "image": "5.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 6,
+    "name": "მიხეილ ყაველაშვილი",
+    "about": "უბანში ყველაზე ბანძად ვინც თამაშობდა ფეხბურთს ყაველაშვილს ვეძახდით. ახლა კანონებს ირებს.",
+    "image": "6.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 7,
+    "name": "დავით კაჭარავა",
+    "about": "N/A",
+    "image": "7.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 8,
+    "name": "ლევან კობიაშვილი",
+    "about": "N/A",
+    "image": "8.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 9,
+    "name": "ლადო კახაძე",
+    "about": "N/A",
+    "image": "9.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 10,
+    "name": "ვიქტორ სანიკიძე",
+    "about": "N/A",
+    "image": "10.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 11,
+    "name": "გიორგი ამილახვარი",
+    "about": "N/A",
+    "image": "11.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 12,
+    "name": "გია ბენაშვილი",
+    "about": "N/A",
+    "image": "12.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 13,
+    "name": "ირაკლი ბერაია",
+    "about": "N/A",
+    "image": "13.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 14,
+    "name": "ირაკლი (დაჩი) ბერაია",
+    "about": "N/A",
+    "image": "14.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 15,
+    "name": "რამინა ბერაძე",
+    "about": "N/A",
+    "image": "15.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 16,
+    "name": "მაია ბითაძე",
+    "about": "N/A",
+    "image": "16.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 17,
+    "name": "ანზორ ბოლქვაძე",
+    "about": "N/A",
+    "image": "17.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 18,
+    "name": "ელისო ბოლქვაძე",
+    "about": "N/A",
+    "image": "18.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 19,
+    "name": "მაკა ბოჭორიშვილი",
+    "about": "N/A",
+    "image": "19.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 20,
+    "name": "ბექა დავითულიანი",
+    "about": "N/A",
+    "image": "20.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 21,
+    "name": "ალექსანდრე დალაქიშვილი",
+    "about": "N/A",
+    "image": "21.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 22,
+    "name": "ზაურ დარგალი",
+    "about": "N/A",
+    "image": "22.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 23,
+    "name": "ისკო დასენი",
+    "about": "N/A",
+    "image": "23.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 24,
+    "name": "ზაალ დუგლაძე",
+    "about": "N/A",
+    "image": "24.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 25,
+    "name": "გოჩა ენუქიძე",
+    "about": "N/A",
+    "image": "25.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 26,
+    "name": "ირმა ზავრადაშვილი",
+    "about": "N/A",
+    "image": "26.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 27,
+    "name": "ირაკლი ზარქუა",
+    "about": "N/A",
+    "image": "27.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 28,
+    "name": "ედიშერ თოლორაია",
+    "about": "N/A",
+    "image": "28.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 29,
+    "name": "ფრიდინ ინჯია",
+    "about": "N/A",
+    "image": "29.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 30,
+    "name": "რატი იონათამიშვილი",
+    "about": "N/A",
+    "image": "30.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 31,
+    "name": "გიორგი კახიანი",
+    "about": "N/A",
+    "image": "31.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 32,
+    "name": "კახა კახიშვილი",
+    "about": "N/A",
+    "image": "32.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 33,
+    "name": "პაატა კვიჟინაძე",
+    "about": "N/A",
+    "image": "33.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 34,
+    "name": "ბაია კვიციანი",
+    "about": "N/A",
+    "image": "34.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 35,
+    "name": "სუმბატ კიურეღიანი",
+    "about": "N/A",
+    "image": "35.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 36,
+    "name": "რესან კონცელიძე",
+    "about": "N/A",
+    "image": "36.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 37,
+    "name": "მარიამ ლაშხი",
+    "about": "N/A",
+    "image": "37.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 38,
+    "name": "ლომინაძე ზაზა",
+    "about": "N/A",
+    "image": "38.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 39,
+    "name": "მათიკაშვილი დავით",
+    "about": "N/A",
+    "image": "39.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 40,
+    "name": "მანუკიანი სამველ",
+    "about": "N/A",
+    "image": "40.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 41,
+    "name": "მაჭარაშვილი გურამ",
+    "about": "N/A",
+    "image": "41.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 42,
+    "name": "მგალობლიშვილი ლევან",
+    "about": "N/A",
+    "image": "42.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 43,
+    "name": "მეზურნიშვილი ირაკლი",
+    "about": "N/A",
+    "image": "43.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 44,
+    "name": "მენაღარიშვილი მაია",
+    "about": "N/A",
+    "image": "44.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 45,
+    "name": "მეშველიანი გოგი",
+    "about": "N/A",
+    "image": "45.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 46,
+    "name": "მირზოევი სავალან",
+    "about": "N/A",
+    "image": "46.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 47,
+    "name": "მიქანაძე გივი",
+    "about": "N/A",
+    "image": "47.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 48,
+    "name": "მიქელაძე ზაალ",
+    "about": "N/A",
+    "image": "48.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 49,
+    "name": "ანტონ ობოლაშვილი",
+    "about": "N/A",
+    "image": "49.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 50,
+    "name": "ბექა ოდიშარია",
+    "about": "N/A",
+    "image": "50.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 51,
+    "name": "ანრი ოხანაშვილი",
+    "about": "N/A",
+    "image": "51.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 52,
+    "name": "პაპუაშვილი შალვა",
+    "about": "N/A",
+    "image": "52.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 53,
+    "name": "სამხარაული გელა",
+    "about": "N/A",
+    "image": "53.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 54,
+    "name": "სამხარაძე დიმიტრი",
+    "about": "ყლეზე ყლეა. 2-ჯერ მისცა ხმა რუსულ კანონს.",
+    "image": "54.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 55,
+    "name": "სამხარაძე ნიკოლოზ",
+    "about": "N/A",
+    "image": "55.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 56,
+    "name": "მიხეილ სარჯველაძე",
+    "about": "N/A",
+    "image": "56.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 57,
+    "name": "ეკა სეფაშვილი",
+    "about": "N/A",
+    "image": "57.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 58,
+    "name": "დავით სონღულაშვილი",
+    "about": "N/A",
+    "image": "58.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 59,
+    "name": "ალექსანდრე ტაბატაძე",
+    "about": "N/A",
+    "image": "59.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 60,
+    "name": "ნოდარ ტურძელაძე",
+    "about": "N/A",
+    "image": "60.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 61,
+    "name": "ირაკლი ქადაგიშვილი",
+    "about": "N/A",
+    "image": "61.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 62,
+    "name": "ლევან ქარუმიძე",
+    "about": "N/A",
+    "image": "62.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 63,
+    "name": "ალუდა ღუდუშაური",
+    "about": "N/A",
+    "image": "63.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 64,
+    "name": "ირაკლი შატაკიშვილი",
+    "about": "N/A",
+    "image": "64.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 65,
+    "name": "გოდერძი ჩანქსელიანი",
+    "about": "N/A",
+    "image": "65.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 66,
+    "name": "ვასილ ჩიგოგიძე",
+    "about": "N/A",
+    "image": "66.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 67,
+    "name": "ირაკლი ჩიქოვანი",
+    "about": "N/A",
+    "image": "67.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 68,
+    "name": "გიორგი ცაგარეიშვილი",
+    "about": "N/A",
+    "image": "68.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 69,
+    "name": "ნინო წილოსანი",
+    "about": "N/A",
+    "image": "69.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 70,
+    "name": "წაქაძე ბეჟან",
+    "about": "N/A",
+    "image": "70.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 71,
+    "name": "ხატია წილოსანი",
+    "about": "N/A",
+    "image": "71.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 72,
+    "name": "გრეტა წიწავა",
+    "about": "N/A",
+    "image": "11.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 73,
+    "name": "გივი ჭიჭინაძე",
+    "about": "N/A",
+    "image": "73.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 74,
+    "name": "შოთა ხაბარელი",
+    "about": "N/A",
+    "image": "74.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 75,
+    "name": "დიმიტრი ხუნდაძე",
+    "about": "N/A",
+    "image": "75.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  },
+  {
+    "id": 76,
+    "name": "ვიქტორ ჯაფარიძე",
+    "about": "N/A",
+    "image": "76.webp",
+    "username": "N/A",
+    "position": "N/A",
+    "party": "N/A",
+    "bio": {
+      "bday": "N/A",
+      "city": "N/A",
+      "country": "N/A"
+    },
+    "meta": {
+      "phone": "N/A",
+      "fb": "N/A",
+      "ig": "N/A"
+    }
+  }
+]
