@@ -326,6 +326,13 @@ main::after {
 	will-change: transform, opacity;
 }
 
+@media all and (max-width: 830px) {
+	.content__item-title {
+		font-size: 4vh;
+		word-break: break-word;
+	}
+}
+
 .content__item-text {
 	opacity: 0;
 	text-transform: uppercase;
